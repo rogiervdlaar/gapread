@@ -265,12 +265,8 @@ else:
     st.caption("THE PERSONAL PROGRESS CHECKLIST")
 
 st.markdown(
-    """
-    Most people read for entertainment or validation—rarely for targeted repair. 
-    Your life does not stall evenly; it breaks down at your weakest link.
-
-    Complete this 60-second personal progress checklist to isolate your single biggest bottleneck 
-    and unlock your curated, top 10 targeted reading blueprint designed to bridge the gap.
+    """Reach your full potential faster. Rate where your life stands in 30 seconds to receive a personalized reading 
+    list tailored to elevate your focus, health, wealth, and mindset.
     """
 )
 
